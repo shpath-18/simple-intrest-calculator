@@ -16,9 +16,9 @@ formula for simple interest is:
 SI = (P * R * T) / 100
 
 where:
-p is the principle amount
-r is the rate of interest 
-t is the time in years
+P is the principle amount
+R is the rate of interest 
+T is the time in years
 
 ### 4. *Add a Code of Conduct*
 - Go to *Add file* → *Create new file*.
