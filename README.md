@@ -4,7 +4,8 @@ This repository contains a simple Python script to calculate simple interest. It
 
 ## How to Use
 1. Clone the repository:
-   
+```bash
+
 git clone https://github.com/<your-username>/simple-interest-calculator.git 
 
 1. Run the script:
